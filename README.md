@@ -8,9 +8,13 @@ Prerequisites
 Before you begin, ensure you have the following prerequisites installed:
 
 Docker: Install Docker
+
 Google Cloud SDK: Install Google Cloud SDK
+
 Google Cloud Run enabled: Enable Cloud Run
+
 Local Development
+
 To run the application locally, follow these steps:
 
 Clone this repository to your local machine:
